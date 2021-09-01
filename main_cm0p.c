@@ -23,7 +23,7 @@ int main(void)
     {
         /* Place your application code here. */
         mUART_PutString("Hello world\n");
-        CyDelay(1000);
+        CyDelay(5000);
     }
 }
 
